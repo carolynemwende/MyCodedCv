@@ -53,21 +53,15 @@ header{
 }
 
 
-.carol{
-	position: absolute;
-	width: 150px;
-	height: 50px;
-	margin-top: -350px;
-	margin-left: 32%;
 
-}
-
-.carol a{
+.hr a{
 	text-decoration: none;
 	color: black;
 	border:2px solid black;
 	padding: 10px;
+	margin-left: 45%;
 }
+
 
 .bar{
 	position: absolute;
@@ -88,6 +82,12 @@ header{
 	text-decoration: none;
 	color: white;
 	padding-right:1%;
+}
+
+
+.nav a:hover{
+	color:#F48881;
+
 }
 
 .f{
